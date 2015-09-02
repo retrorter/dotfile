@@ -76,3 +76,7 @@ imap <leader>" ""<ESC>i
 imap <leader>( ()<ESC>i
 imap <leader>[ []<ESC>i
 
+" remap ; to : 
+nnoremap ; :
+nnoremap : ;
+
